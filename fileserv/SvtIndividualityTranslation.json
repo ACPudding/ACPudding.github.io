@@ -1,0 +1,590 @@
+[
+  {
+    "id": 1,
+    "individualityName": "男性"
+  },
+  {
+    "id": 2,
+    "individualityName": "女性"
+  },
+  {
+    "id": 3,
+    "individualityName": "不明性别"
+  },
+  {
+    "id": 100,
+    "individualityName": "Saber"
+  },
+  {
+    "id": 101,
+    "individualityName": "Lancer"
+  },
+  {
+    "id": 102,
+    "individualityName": "Archer"
+  },
+  {
+    "id": 103,
+    "individualityName": "Rider"
+  },
+  {
+    "id": 104,
+    "individualityName": "Caster"
+  },
+  {
+    "id": 105,
+    "individualityName": "Assassin"
+  },
+  {
+    "id": 106,
+    "individualityName": "Berserker"
+  },
+  {
+    "id": 107,
+    "individualityName": "Shielder"
+  },
+  {
+    "id": 108,
+    "individualityName": "Ruler"
+  },
+  {
+    "id": 109,
+    "individualityName": "AlterEgo"
+  },
+  {
+    "id": 110,
+    "individualityName": "Avenger"
+  },
+  {
+    "id": 111,
+    "individualityName": "魔神柱"
+  },
+  {
+    "id": 112,
+    "individualityName": "Grand Caster"
+  },
+  {
+    "id": 113,
+    "individualityName": "Beast I"
+  },
+  {
+    "id": 114,
+    "individualityName": "Beast II"
+  },
+  {
+    "id": 115,
+    "individualityName": "Moon Cancer"
+  },
+  {
+    "id": 116,
+    "individualityName": "Beast III/R"
+  },
+  {
+    "id": 117,
+    "individualityName": "Foreigner"
+  },
+  {
+    "id": 118,
+    "individualityName": "Beast III/L"
+  },
+  {
+    "id": 119,
+    "individualityName": "Beast?"
+  },
+  {
+    "id": 120,
+    "individualityName": "Pretender"
+  },
+  {
+    "id": 121,
+    "individualityName": "Beast IV"
+  },
+  {
+    "id": 123,
+    "individualityName": "U-奥尔加玛丽"
+  },
+  {
+    "id": 200,
+    "individualityName": "天之力"
+  },
+  {
+    "id": 201,
+    "individualityName": "地之力"
+  },
+  {
+    "id": 202,
+    "individualityName": "人之力"
+  },
+  {
+    "id": 203,
+    "individualityName": "星之力"
+  },
+  {
+    "id": 204,
+    "individualityName": "兽之力"
+  },
+  {
+    "id": 300,
+    "individualityName": "秩序"
+  },
+  {
+    "id": 301,
+    "individualityName": "混沌"
+  },
+  {
+    "id": 302,
+    "individualityName": "中立"
+  },
+  {
+    "id": 303,
+    "individualityName": "善"
+  },
+  {
+    "id": 304,
+    "individualityName": "恶"
+  },
+  {
+    "id": 305,
+    "individualityName": "中庸"
+  },
+  {
+    "id": 306,
+    "individualityName": "狂"
+  },
+  {
+    "id": 308,
+    "individualityName": "夏"
+  },
+  {
+    "id": 1000,
+    "individualityName": "从者"
+  },
+  {
+    "id": 1001,
+    "individualityName": "人类"
+  },
+  {
+    "id": 1002,
+    "individualityName": "死灵"
+  },
+  {
+    "id": 1003,
+    "individualityName": "Artificial Demon"
+  },
+  {
+    "id": 1004,
+    "individualityName": "Demon Beast"
+  },
+  {
+    "id": 1005,
+    "individualityName": "Daemon"
+  },
+  {
+    "id": 1100,
+    "individualityName": "Soldier"
+  },
+  {
+    "id": 1101,
+    "individualityName": "Amazoness"
+  },
+  {
+    "id": 1102,
+    "individualityName": "Skeleton"
+  },
+  {
+    "id": 1103,
+    "individualityName": "Zombie"
+  },
+  {
+    "id": 1104,
+    "individualityName": "Ghost"
+  },
+  {
+    "id": 1105,
+    "individualityName": "Automata"
+  },
+  {
+    "id": 1106,
+    "individualityName": "Golem"
+  },
+  {
+    "id": 1107,
+    "individualityName": "Spellbook"
+  },
+  {
+    "id": 1108,
+    "individualityName": "Homunculus"
+  },
+  {
+    "id": 1110,
+    "individualityName": "Lamia"
+  },
+  {
+    "id": 1111,
+    "individualityName": "Centaur"
+  },
+  {
+    "id": 1112,
+    "individualityName": "Werebeast"
+  },
+  {
+    "id": 1113,
+    "individualityName": "Chimera"
+  },
+  {
+    "id": 1117,
+    "individualityName": "Wyvern"
+  },
+  {
+    "id": 1118,
+    "individualityName": "Dragon Type"
+  },
+  {
+    "id": 1119,
+    "individualityName": "Gazer"
+  },
+  {
+    "id": 1120,
+    "individualityName": "Hand Or Door"
+  },
+  {
+    "id": 1121,
+    "individualityName": "Demon God Pillar"
+  },
+  {
+    "id": 1122,
+    "individualityName": "影从者"
+  },
+  {
+    "id": 1132,
+    "individualityName": "鬼"
+  },
+  {
+    "id": 1133,
+    "individualityName": "Hand"
+  },
+  {
+    "id": 1134,
+    "individualityName": "Door"
+  },
+  {
+    "id": 1172,
+    "individualityName": "人类威胁"
+  },
+  {
+    "id": 1177,
+    "individualityName": "妖精"
+  },
+  {
+    "id": 2000,
+    "individualityName": "神性"
+  },
+  {
+    "id": 2001,
+    "individualityName": "人型"
+  },
+  {
+    "id": 2002,
+    "individualityName": "龙"
+  },
+  {
+    "id": 2003,
+    "individualityName": "屠龙者"
+  },
+  {
+    "id": 2004,
+    "individualityName": "罗马"
+  },
+  {
+    "id": 2005,
+    "individualityName": "猛兽"
+  },
+  {
+    "id": 2006,
+    "individualityName": "atalante"
+  },
+  {
+    "id": 2007,
+    "individualityName": "阿尔托莉雅脸"
+  },
+  {
+    "id": 2008,
+    "individualityName": "被EA特攻"
+  },
+  {
+    "id": 2009,
+    "individualityName": "骑乘"
+  },
+  {
+    "id": 2010,
+    "individualityName": "亚瑟"
+  },
+  {
+    "id": 2011,
+    "individualityName": "天地从者"
+  },
+  {
+    "id": 2012,
+    "individualityName": "所爱之人"
+  },
+  {
+    "id": 2018,
+    "individualityName": "死灵&恶魔"
+  },
+  {
+    "id": 2019,
+    "individualityName": "魔性"
+  },
+  {
+    "id": 2037,
+    "individualityName": "天地从者(非拟拟/亚从者)"
+  },
+  {
+    "id": 2038,
+    "individualityName": "[阳光] 场地"
+  },
+  {
+    "id": 2039,
+    "individualityName": "[水边] 场地"
+  },
+  {
+    "id": 2040,
+    "individualityName": "神性&死灵&恶魔(玛尔达特攻)"
+  },
+  {
+    "id": 2073,
+    "individualityName": "[丛林] 场地"
+  },
+  {
+    "id": 2074,
+    "individualityName": "Blessed By Kur"
+  },
+  {
+    "id": 2075,
+    "individualityName": "Saber从者"
+  },
+  {
+    "id": 2076,
+    "individualityName": "超巨大"
+  },
+  {
+    "id": 2113,
+    "individualityName": "王"
+  },
+  {
+    "id": 2114,
+    "individualityName": "希腊神话男性"
+  },
+  {
+    "id": 2121,
+    "individualityName": "[燃烧] 场地"
+  },
+  {
+    "id": 2355,
+    "individualityName": "[伊莉雅]"
+  },
+  {
+    "id": 2356,
+    "individualityName": "[绅士之爱C]除女性外的对象"
+  },
+  {
+    "id": 2387,
+    "individualityName": "Kingprotea[增殖]状态"
+  },
+  {
+    "id": 2392,
+    "individualityName": "[城市] 场地"
+  },
+  {
+    "id": 2466,
+    "individualityName": "[阿尔戈号] 相关人物"
+  },
+  {
+    "id": 2467,
+    "individualityName": "弱点判明Buff"
+  },
+  {
+    "id": 2615,
+    "individualityName": "性别[凯尼斯]"
+  },
+  {
+    "id": 2631,
+    "individualityName": "人科从者"
+  },
+  {
+    "id": 2632,
+    "individualityName": "魔兽型从者"
+  },
+  {
+    "id": 2654,
+    "individualityName": "活在当下的人类"
+  },
+  {
+    "id": 2666,
+    "individualityName": "巨人"
+  },
+  {
+    "id": 2667,
+    "individualityName": "孩童从者"
+  },
+  {
+    "id": 2721,
+    "individualityName": "信长"
+  },
+  {
+    "id": 2731,
+    "individualityName": "领域外生命"
+  },
+  {
+    "id": 2734,
+    "individualityName": "[酒吞童子]"
+  },
+  {
+    "id": 2735,
+    "individualityName": "源氏"
+  },
+  {
+    "id": 2759,
+    "individualityName": "复仇之怨念"
+  },
+  {
+    "id": 2780,
+    "individualityName": "灵衣持有者"
+  },
+  {
+    "id": 2781,
+    "individualityName": "机械"
+  },
+  {
+    "id": 2795,
+    "individualityName": "圆桌骑士"
+  },
+  {
+    "id": 2797,
+    "individualityName": "神灵"
+  },
+  {
+    "id": 2801,
+    "individualityName": "爱炎"
+  },
+  {
+    "id": 2810,
+    "individualityName": "童话系从者"
+  },
+  {
+    "id": 2821,
+    "individualityName": "兽科从者"
+  },
+  {
+    "id": 2827,
+    "individualityName": "点赞！"
+  },
+  {
+    "id": 2828,
+    "individualityName": "王勇"
+  },
+  {
+    "id": 2833,
+    "individualityName": "[虞美人]"
+  },
+  {
+    "id": 2835,
+    "individualityName": "[猪化无效](特性)"
+  },
+  {
+    "id": 2836,
+    "individualityName": "充能减少(特性)"
+  },
+  {
+    "id": 2837,
+    "individualityName": "[瓦尔基里]"
+  },
+  {
+    "id": 2838,
+    "individualityName": "夏日模式的从者"
+  },
+  {
+    "id": 2839,
+    "individualityName": "新选组从者"
+  },
+  {
+    "id": 2840,
+    "individualityName": "梁山泊"
+  },
+  {
+    "id": 2847,
+    "individualityName": "漂浮系从者"
+  },
+  {
+    "id": 2848,
+    "individualityName": "[赤き乳海]无效(2.7帝王花用)"
+  },
+  {
+    "id": 2849,
+    "individualityName": "不动的决意(免疫\"巨兽搅拌\")"
+  },
+  {
+    "id": 2850,
+    "individualityName": "神域相杀(2.7帝王花用)"
+  },
+  {
+    "id": 2851,
+    "individualityName": "持有天之力的从者"
+  },
+  {
+    "id": 3004,
+    "individualityName": "Buff"
+  },
+  {
+    "id": 3005,
+    "individualityName": "Debuff"
+  },
+  {
+    "id": 3010,
+    "individualityName": "精神异常Buff"
+  },
+  {
+    "id": 3011,
+    "individualityName": "毒Buff"
+  },
+  {
+    "id": 3012,
+    "individualityName": "魅惑Buff"
+  },
+  {
+    "id": 3013,
+    "individualityName": "石化Buff"
+  },
+  {
+    "id": 3014,
+    "individualityName": "眩晕Buff"
+  },
+  {
+    "id": 3015,
+    "individualityName": "灼伤Buff"
+  },
+  {
+    "id": 3021,
+    "individualityName": "回避Buff"
+  },
+  {
+    "id": 3022,
+    "individualityName": "无敌Buff"
+  },
+  {
+    "id": 3025,
+    "individualityName": "技能封印Buff"
+  },
+  {
+    "id": 3026,
+    "individualityName": "诅咒Buff"
+  },
+  {
+    "id": 5000,
+    "individualityName": "Can Be In Battle"
+  },
+  {
+    "id": 5010,
+    "individualityName": "Not Based On Servant"
+  }
+]

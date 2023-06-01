@@ -1,0 +1,390 @@
+[
+  {
+    "typeName": "NONE",
+    "funcTypeId": "0"
+  },
+  {
+    "typeName": "ADD_STATE",
+    "funcTypeId": "1"
+  },
+  {
+    "typeName": "SUB_STATE",
+    "funcTypeId": "2"
+  },
+  {
+    "typeName": "DAMAGE",
+    "funcTypeId": "3"
+  },
+  {
+    "typeName": "DAMAGE_NP",
+    "funcTypeId": "4"
+  },
+  {
+    "typeName": "GAIN_STAR",
+    "funcTypeId": "5"
+  },
+  {
+    "typeName": "GAIN_HP",
+    "funcTypeId": "6"
+  },
+  {
+    "typeName": "GAIN_NP",
+    "funcTypeId": "7"
+  },
+  {
+    "typeName": "LOSS_NP",
+    "funcTypeId": "8"
+  },
+  {
+    "typeName": "SHORTEN_SKILL",
+    "funcTypeId": "9"
+  },
+  {
+    "typeName": "EXTEND_SKILL",
+    "funcTypeId": "10"
+  },
+  {
+    "typeName": "RELEASE_STATE",
+    "funcTypeId": "11"
+  },
+  {
+    "typeName": "LOSS_HP",
+    "funcTypeId": "12"
+  },
+  {
+    "typeName": "INSTANT_DEATH",
+    "funcTypeId": "13"
+  },
+  {
+    "typeName": "DAMAGE_NP_PIERCE",
+    "funcTypeId": "14"
+  },
+  {
+    "typeName": "DAMAGE_NP_INDIVIDUAL",
+    "funcTypeId": "15"
+  },
+  {
+    "typeName": "ADD_STATE_SHORT",
+    "funcTypeId": "16"
+  },
+  {
+    "typeName": "GAIN_HP_PER",
+    "funcTypeId": "17"
+  },
+  {
+    "typeName": "DAMAGE_NP_STATE_INDIVIDUAL",
+    "funcTypeId": "18"
+  },
+  {
+    "typeName": "HASTEN_NPTURN",
+    "funcTypeId": "19"
+  },
+  {
+    "typeName": "DELAY_NPTURN",
+    "funcTypeId": "20"
+  },
+  {
+    "typeName": "FRIEND_POINT_UP",
+    "funcTypeId": "104"
+  },
+  {
+    "typeName": "FRIEND_POINT_UP_DUPLICATE",
+    "funcTypeId": "123"
+  },
+  {
+    "typeName": "EXP_UP",
+    "funcTypeId": "101"
+  },
+  {
+    "typeName": "QP_UP",
+    "funcTypeId": "102"
+  },
+  {
+    "typeName": "DROP_UP",
+    "funcTypeId": "103"
+  },
+  {
+    "typeName": "EVENT_DROP_UP",
+    "funcTypeId": "105"
+  },
+  {
+    "typeName": "EVENT_DROP_RATE_UP",
+    "funcTypeId": "106"
+  },
+  {
+    "typeName": "DAMAGE_NP_HPRATIO_HIGH",
+    "funcTypeId": "21"
+  },
+  {
+    "typeName": "DAMAGE_NP_HPRATIO_LOW",
+    "funcTypeId": "22"
+  },
+  {
+    "typeName": "EVENT_POINT_UP",
+    "funcTypeId": "107"
+  },
+  {
+    "typeName": "EVENT_POINT_RATE_UP",
+    "funcTypeId": "108"
+  },
+  {
+    "typeName": "CARD_RESET",
+    "funcTypeId": "23"
+  },
+  {
+    "typeName": "REPLACE_MEMBER",
+    "funcTypeId": "24"
+  },
+  {
+    "typeName": "TRANSFORM_SERVANT",
+    "funcTypeId": "109"
+  },
+  {
+    "typeName": "QP_DROP_UP",
+    "funcTypeId": "110"
+  },
+  {
+    "typeName": "SERVANT_FRIENDSHIP_UP",
+    "funcTypeId": "111"
+  },
+  {
+    "typeName": "USER_EQUIP_EXP_UP",
+    "funcTypeId": "112"
+  },
+  {
+    "typeName": "CLASS_DROP_UP",
+    "funcTypeId": "113"
+  },
+  {
+    "typeName": "ENEMY_ENCOUNT_COPY_RATE_UP",
+    "funcTypeId": "114"
+  },
+  {
+    "typeName": "ENEMY_ENCOUNT_RATE_UP",
+    "funcTypeId": "115"
+  },
+  {
+    "typeName": "LOSS_HP_SAFE",
+    "funcTypeId": "25"
+  },
+  {
+    "typeName": "DAMAGE_NP_COUNTER",
+    "funcTypeId": "26"
+  },
+  {
+    "typeName": "DAMAGE_NP_STATE_INDIVIDUAL_FIX",
+    "funcTypeId": "27"
+  },
+  {
+    "typeName": "DAMAGE_NP_SAFE",
+    "funcTypeId": "28"
+  },
+  {
+    "typeName": "CALL_SERVANT",
+    "funcTypeId": "29"
+  },
+  {
+    "typeName": "PT_SHUFFLE",
+    "funcTypeId": "30"
+  },
+  {
+    "typeName": "ENEMY_PROB_DOWN",
+    "funcTypeId": "116"
+  },
+  {
+    "typeName": "LOSS_STAR",
+    "funcTypeId": "31"
+  },
+  {
+    "typeName": "CHANGE_SERVANT",
+    "funcTypeId": "32"
+  },
+  {
+    "typeName": "CHANGE_BG",
+    "funcTypeId": "33"
+  },
+  {
+    "typeName": "DAMAGE_VALUE",
+    "funcTypeId": "34"
+  },
+  {
+    "typeName": "WITHDRAW",
+    "funcTypeId": "35"
+  },
+  {
+    "typeName": "FIX_COMMANDCARD",
+    "funcTypeId": "36"
+  },
+  {
+    "typeName": "SHORTEN_BUFFTURN",
+    "funcTypeId": "37"
+  },
+  {
+    "typeName": "EXTEND_BUFFTURN",
+    "funcTypeId": "38"
+  },
+  {
+    "typeName": "SHORTEN_BUFFCOUNT",
+    "funcTypeId": "39"
+  },
+  {
+    "typeName": "EXTEND_BUFFCOUNT",
+    "funcTypeId": "40"
+  },
+  {
+    "typeName": "CHANGE_BGM",
+    "funcTypeId": "41"
+  },
+  {
+    "typeName": "DISPLAY_BUFFSTRING",
+    "funcTypeId": "42"
+  },
+  {
+    "typeName": "RESURRECTION",
+    "funcTypeId": "43"
+  },
+  {
+    "typeName": "GAIN_NP_BUFF_INDIVIDUAL_SUM",
+    "funcTypeId": "44"
+  },
+  {
+    "typeName": "SET_SYSTEM_ALIVE_FLAG",
+    "funcTypeId": "45"
+  },
+  {
+    "typeName": "FORCE_INSTANT_DEATH",
+    "funcTypeId": "46"
+  },
+  {
+    "typeName": "DAMAGE_NP_RARE",
+    "funcTypeId": "47"
+  },
+  {
+    "typeName": "GAIN_NP_FROM_TARGETS",
+    "funcTypeId": "48"
+  },
+  {
+    "typeName": "GAIN_HP_FROM_TARGETS",
+    "funcTypeId": "49"
+  },
+  {
+    "typeName": "LOSS_HP_PER",
+    "funcTypeId": "50"
+  },
+  {
+    "typeName": "LOSS_HP_PER_SAFE",
+    "funcTypeId": "51"
+  },
+  {
+    "typeName": "SHORTEN_USER_EQUIP_SKILL",
+    "funcTypeId": "52"
+  },
+  {
+    "typeName": "QUICK_CHANGE_BG",
+    "funcTypeId": "53"
+  },
+  {
+    "typeName": "SHIFT_SERVANT",
+    "funcTypeId": "54"
+  },
+  {
+    "typeName": "DAMAGE_NP_AND_CHECK_INDIVIDUALITY",
+    "funcTypeId": "55"
+  },
+  {
+    "typeName": "ABSORB_NPTURN",
+    "funcTypeId": "56"
+  },
+  {
+    "typeName": "OVERWRITE_DEAD_TYPE",
+    "funcTypeId": "57"
+  },
+  {
+    "typeName": "FORCE_ALL_BUFF_NOACT",
+    "funcTypeId": "58"
+  },
+  {
+    "typeName": "BREAK_GAUGE_UP",
+    "funcTypeId": "59"
+  },
+  {
+    "typeName": "BREAK_GAUGE_DOWN",
+    "funcTypeId": "60"
+  },
+  {
+    "typeName": "MOVE_TO_LAST_SUBMEMBER",
+    "funcTypeId": "61"
+  },
+  {
+    "typeName": "GET_REWARD_GIFT",
+    "funcTypeId": "117"
+  },
+  {
+    "typeName": "SEND_SUPPORT_FRIEND_POINT",
+    "funcTypeId": "118"
+  },
+  {
+    "typeName": "MOVE_POSITION",
+    "funcTypeId": "119"
+  },
+  {
+    "typeName": "REVIVAL",
+    "funcTypeId": "120"
+  },
+  {
+    "typeName": "DAMAGE_NP_INDIVIDUAL_SUM",
+    "funcTypeId": "121"
+  },
+  {
+    "typeName": "DAMAGE_VALUE_SAFE",
+    "funcTypeId": "122"
+  },
+  {
+    "typeName": "MOVE_STATE",
+    "funcTypeId": "124"
+  },
+  {
+    "typeName": "CHANGE_BGM_COSTUME",
+    "funcTypeId": "125"
+  },
+  {
+    "typeName": "FUNC_126",
+    "funcTypeId": "126"
+  },
+  {
+    "typeName": "FUNC_127",
+    "funcTypeId": "127"
+  },
+  {
+    "typeName": "UPDATE_ENTRY_POSITIONS",
+    "funcTypeId": "128"
+  },
+  {
+    "typeName": "BUDDY_POINT_UP",
+    "funcTypeId": "129"
+  },
+  {
+    "typeName": "ADD_FIELD_CHANGE_TO_FIELD",
+    "funcTypeId": "130"
+  },
+  {
+    "typeName": "SUB_FIELD_BUFF",
+    "funcTypeId": "131"
+  },
+  {
+    "typeName": "EVENT_FORTIFICATION_POINT_UP",
+    "funcTypeId": "132"
+  },
+  {
+    "typeName": "GAIN_NP_INDIVIDUAL_SUM",
+    "funcTypeId": "133"
+  },
+  {
+    "typeName": "SET_QUEST_ROUTE_FLAG",
+    "funcTypeId": "134"
+  },
+  {
+    "typeName": "LAST_USE_PLAYER_SKILL_COPY",
+    "funcTypeId": "135"
+  }
+]

@@ -5,55 +5,55 @@
   },
   {
     "id": 12,
-    "tdFuncname": "強力攻撃(単体)"
+    "tdFuncname": "(单体)强力攻击"
   },
   {
     "id": 13,
-    "tdFuncname": "強力攻撃(全体)"
+    "tdFuncname": "(全体)强力攻击"
   },
   {
     "id": 14,
-    "tdFuncname": "防御無視攻撃\r\n(単体)"
+    "tdFuncname": "(单体)防御无视攻击"
   },
   {
     "id": 15,
-    "tdFuncname": "防御無視攻撃\r\n(全体)"
+    "tdFuncname": "(全体)防御无视攻击"
   },
   {
     "id": 16,
-    "tdFuncname": "特攻攻撃\r\n對特性(単体)"
+    "tdFuncname": "(单体)特攻攻击"
   },
   {
     "id": 17,
-    "tdFuncname": "特攻攻撃\r\n對特性(全体)"
+    "tdFuncname": "(全体)特攻攻击"
   },
   {
     "id": 22,
-    "tdFuncname": "HP越少威力\r\n越高攻撃(単体)"
+    "tdFuncname": "(单体)HP越少威力越高攻击"
   },
   {
     "id": 23,
-    "tdFuncname": "HP越少威力\r\n越高攻撃(全体)"
+    "tdFuncname": "(全体)HP越少威力越高攻击"
   },
   {
     "id": 24,
-    "tdFuncname": "特攻攻撃\r\n對Buff(単体)"
+    "tdFuncname": "(单体)特攻攻击"
   },
   {
     "id": 25,
-    "tdFuncname": "特攻攻撃\r\n對Buff(全体)"
+    "tdFuncname": "(全体)特攻攻击"
   },
   {
     "id": 532,
-    "tdFuncname": "人格交換"
+    "tdFuncname": "人格交换"
   },
   {
     "id": 801,
-    "tdFuncname": "被傷害反射"
+    "tdFuncname": "被伤害反射"
   },
   {
     "id": 802,
-    "tdFuncname": "被傷害反射"
+    "tdFuncname": "被伤害反射"
   },
   {
     "id": 3851,
@@ -61,27 +61,27 @@
   },
   {
     "id": 3853,
-    "tdFuncname": "特攻攻撃\r\n對稀有度(単体)"
+    "tdFuncname": "(单体·稀有度)特攻攻击"
   },
   {
     "id": 3854,
-    "tdFuncname": "特攻攻撃\r\n對稀有度(全体)"
+    "tdFuncname": "(全体·稀有度)特攻攻击"
   },
   {
     "id": 5336,
-    "tdFuncname": "特殊特攻攻撃\r\n(単体)"
+    "tdFuncname": "(单体·特殊)特攻攻击"
   },
   {
     "id": 5337,
-    "tdFuncname": "特殊特攻攻撃\r\n(全体)"
+    "tdFuncname": "(全体·特殊)特攻攻击"
   },
   {
     "id": 5826,
-    "tdFuncname": "特殊即死\r\n(无特效?)"
+    "tdFuncname": "无特效特殊(快速)即死"
   },
   {
     "id": 6323,
-    "tdFuncname": "特殊即死\r\n(无特效?)"
+    "tdFuncname": "无特效特殊(快速)即死"
   },
   {
     "id": 7011,

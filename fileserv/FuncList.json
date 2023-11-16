@@ -386,5 +386,13 @@
   {
     "typeName": "LAST_USE_PLAYER_SKILL_COPY",
     "funcTypeId": "135"
+  },
+  {
+    "typeName": "CHANGE_ENEMY_MASTER_FACE",
+    "funcTypeId": "136"
+  },
+  {
+    "typeName": "DAMAGE_VALUE_SAFE_ONCE",
+    "funcTypeId": "137"
   }
 ]

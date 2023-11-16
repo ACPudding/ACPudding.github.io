@@ -31,17 +31,17 @@
   },
   {
     "buffStr": "毎ターン攻撃力アップ",
-    "buffTrans": "每回合攻擊力提升",
+    "buffTrans": "每回合攻击力提升",
     "id": 6
   },
   {
     "buffStr": "攻撃力アップ",
-    "buffTrans": "攻擊力提升",
+    "buffTrans": "攻击力提升",
     "id": 7
   },
   {
     "buffStr": "攻撃力ダウン",
-    "buffTrans": "攻擊力下降",
+    "buffTrans": "攻击力下降",
     "id": 8
   },
   {
@@ -56,42 +56,42 @@
   },
   {
     "buffStr": "クリティカル威力アップ",
-    "buffTrans": "暴擊威力提升",
+    "buffTrans": "暴击威力提升",
     "id": 11
   },
   {
     "buffStr": "クリティカル威力ダウン",
-    "buffTrans": "暴擊威力下降",
+    "buffTrans": "暴击威力下降",
     "id": 12
   },
   {
     "buffStr": "クリティカル発生アップ",
-    "buffTrans": "暴擊発生率提升",
+    "buffTrans": "暴击发生率提升",
     "id": 13
   },
   {
     "buffStr": "クリティカル発生率アップ",
-    "buffTrans": "暴擊発生率提升",
+    "buffTrans": "暴击发生率提升",
     "id": 14
   },
   {
     "buffStr": "クリティカル発生ダウン",
-    "buffTrans": "暴擊発生率下降",
+    "buffTrans": "暴击发生率下降",
     "id": 15
   },
   {
     "buffStr": "クリティカル発生率ダウン",
-    "buffTrans": "暴擊発生率下降",
+    "buffTrans": "暴击发生率下降",
     "id": 16
   },
   {
     "buffStr": "被クリティカル発生耐性アップ",
-    "buffTrans": "対暴擊耐性提升",
+    "buffTrans": "对暴击耐性提升",
     "id": 17
   },
   {
     "buffStr": "被スター発生耐性アップ",
-    "buffTrans": "対暴擊星掉落耐性提升",
+    "buffTrans": "对暴击星掉落耐性提升",
     "id": 18
   },
   {
@@ -111,12 +111,12 @@
   },
   {
     "buffStr": "アタックプラス",
-    "buffTrans": "傷害附加",
+    "buffTrans": "伤害附加",
     "id": 22
   },
   {
     "buffStr": "ダメージカット",
-    "buffTrans": "傷害減免",
+    "buffTrans": "伤害减免",
     "id": 23
   },
   {
@@ -126,67 +126,67 @@
   },
   {
     "buffStr": "スター発生アップ",
-    "buffTrans": "暴擊星掉落率提升",
+    "buffTrans": "暴击星掉落率提升",
     "id": 25
   },
   {
     "buffStr": "スター発生ダウン",
-    "buffTrans": "暴擊星掉落率下降",
+    "buffTrans": "暴击星掉落率下降",
     "id": 26
   },
   {
     "buffStr": "毎ターンHP回復",
-    "buffTrans": "每回合回復HP",
+    "buffTrans": "每回合回复HP",
     "id": 27
   },
   {
     "buffStr": "やけど",
-    "buffTrans": "灼傷",
+    "buffTrans": "灼伤",
     "id": 28
   },
   {
     "buffStr": "呪い",
-    "buffTrans": "詛咒",
+    "buffTrans": "诅咒",
     "id": 29
   },
   {
     "buffStr": "毎ターンNP減少",
-    "buffTrans": "每回合減少NP",
+    "buffTrans": "每回合减少NP",
     "id": 30
   },
   {
     "buffStr": "毎ターンNP獲得",
-    "buffTrans": "每回合獲得NP",
+    "buffTrans": "每回合获得NP",
     "id": 31
   },
   {
     "buffStr": "毎ターンスター獲得",
-    "buffTrans": "每回合獲得暴擊星",
+    "buffTrans": "每回合获得暴击星",
     "id": 32
   },
   {
     "buffStr": "毎ターンHP回復",
-    "buffTrans": "每回合回復HP",
+    "buffTrans": "每回合回复HP",
     "id": 33
   },
   {
     "buffStr": "被ダメージ時NP獲得アップ",
-    "buffTrans": "受擊NP獲得率提升",
+    "buffTrans": "受击NP获得率提升",
     "id": 34
   },
   {
     "buffStr": "NP獲得アップ",
-    "buffTrans": "NP獲得率提升",
+    "buffTrans": "NP获得率提升",
     "id": 35
   },
   {
     "buffStr": "NP獲得ダウン",
-    "buffTrans": "NP獲得率下降",
+    "buffTrans": "NP获得率下降",
     "id": 36
   },
   {
     "buffStr": "タゲ集中アップ",
-    "buffTrans": "目標集中率上升",
+    "buffTrans": "目标集中率上升",
     "id": 37
   },
   {
@@ -196,12 +196,12 @@
   },
   {
     "buffStr": "スター集中アップ",
-    "buffTrans": "暴擊星集中度上升",
+    "buffTrans": "暴击星集中度上升",
     "id": 39
   },
   {
     "buffStr": "スター集中ダウン",
-    "buffTrans": "暴擊星集中度下降",
+    "buffTrans": "暴击星集中度下降",
     "id": 40
   },
   {
@@ -211,12 +211,12 @@
   },
   {
     "buffStr": "精神異常付与アップ",
-    "buffTrans": "精神異常效果成功率提升",
+    "buffTrans": "精神异常效果成功率提升",
     "id": 42
   },
   {
     "buffStr": "状態付与ダウン",
-    "buffTrans": "状態效果成功率下降",
+    "buffTrans": "状态效果成功率下降",
     "id": 43
   },
   {
@@ -226,17 +226,17 @@
   },
   {
     "buffStr": "攻撃強化成功率ダウン",
-    "buffTrans": "攻撃強化成功率下降",
+    "buffTrans": "攻击强化成功率下降",
     "id": 45
   },
   {
     "buffStr": "被強化成功率アップ",
-    "buffTrans": "受到強化成功率提升",
+    "buffTrans": "受到强化成功率提升",
     "id": 46
   },
   {
     "buffStr": "強化成功率ダウン",
-    "buffTrans": "強化成功率下降",
+    "buffTrans": "强化成功率下降",
     "id": 47
   },
   {
@@ -246,7 +246,7 @@
   },
   {
     "buffStr": "攻撃弱体耐性アップ",
-    "buffTrans": "攻擊弱体耐性提升",
+    "buffTrans": "攻击弱体耐性提升",
     "id": 49
   },
   {
@@ -256,7 +256,7 @@
   },
   {
     "buffStr": "精神異常耐性アップ",
-    "buffTrans": "精神異常耐性提升",
+    "buffTrans": "精神异常耐性提升",
     "id": 51
   },
   {
@@ -266,7 +266,7 @@
   },
   {
     "buffStr": "精神異常耐性ダウン",
-    "buffTrans": "精神異常耐性下降",
+    "buffTrans": "精神异常耐性下降",
     "id": 53
   },
   {
@@ -281,32 +281,32 @@
   },
   {
     "buffStr": "スター獲得",
-    "buffTrans": "獲得暴擊星",
+    "buffTrans": "获得暴击星",
     "id": 56
   },
   {
     "buffStr": "魅了耐性アップ",
-    "buffTrans": "魅了耐性提升",
+    "buffTrans": "魅惑耐性提升",
     "id": 57
   },
   {
     "buffStr": "魅了耐性ダウン",
-    "buffTrans": "魅了耐性下降",
+    "buffTrans": "魅惑耐性下降",
     "id": 58
   },
   {
     "buffStr": "HP回復量アップ",
-    "buffTrans": "HP回復量提升",
+    "buffTrans": "HP回复量提升",
     "id": 59
   },
   {
     "buffStr": "HP回復量ダウン",
-    "buffTrans": "HP回復量下降",
+    "buffTrans": "HP回复量下降",
     "id": 60
   },
   {
     "buffStr": "スキルターン減少",
-    "buffTrans": "技能冷卻減少",
+    "buffTrans": "技能冷却减少",
     "id": 61
   },
   {
@@ -321,27 +321,27 @@
   },
   {
     "buffStr": "最大HPマイナス",
-    "buffTrans": "最大HP減少",
+    "buffTrans": "最大HP减少",
     "id": 64
   },
   {
     "buffStr": "アタックマイナス",
-    "buffTrans": "傷害減少",
+    "buffTrans": "伤害减少",
     "id": 65
   },
   {
     "buffStr": "ダメージプラス",
-    "buffTrans": "傷害提升",
+    "buffTrans": "伤害提升",
     "id": 66
   },
   {
     "buffStr": "支援砲撃セット",
-    "buffTrans": "支援砲撃設置",
+    "buffTrans": "支援炮击设置",
     "id": 67
   },
   {
     "buffStr": "スタン",
-    "buffTrans": "眩暈",
+    "buffTrans": "眩晕",
     "id": 68
   },
   {
@@ -361,22 +361,22 @@
   },
   {
     "buffStr": "毎ターン発動",
-    "buffTrans": "每回合発動",
+    "buffTrans": "每回合发动",
     "id": 72
   },
   {
     "buffStr": "オーバーチャージ段階UP",
-    "buffTrans": "宝具OC階段提升",
+    "buffTrans": "宝具OC阶段提升",
     "id": 73
   },
   {
     "buffStr": "与HP回復量アップ",
-    "buffTrans": "受到HP回復量提升",
+    "buffTrans": "受到HP回复量提升",
     "id": 74
   },
   {
     "buffStr": "被ダメージ反射",
-    "buffTrans": "反射受到的傷害",
+    "buffTrans": "反射受到的伤害",
     "id": 75
   },
   {
@@ -386,17 +386,17 @@
   },
   {
     "buffStr": "登場時スター獲得",
-    "buffTrans": "登場時獲得暴擊星",
+    "buffTrans": "登场时获得暴击星",
     "id": 77
   },
   {
     "buffStr": "毎ターン確率でダメージ",
-    "buffTrans": "每回合概率造成傷害",
+    "buffTrans": "每回合概率造成伤害",
     "id": 78
   },
   {
     "buffStr": "毎ターン確率で強化解除",
-    "buffTrans": "每回合概率強化解除",
+    "buffTrans": "每回合概率强化解除",
     "id": 79
   },
   {
@@ -406,7 +406,7 @@
   },
   {
     "buffStr": "1ターン後スタン",
-    "buffTrans": "1回合後眩暈",
+    "buffTrans": "1回合后眩暈",
     "id": 81
   },
   {
@@ -416,12 +416,12 @@
   },
   {
     "buffStr": "毎ターン確率でNP減少",
-    "buffTrans": "每回合概率NP減少",
+    "buffTrans": "每回合概率NP减少",
     "id": 83
   },
   {
     "buffStr": "死亡時効果セット",
-    "buffTrans": "死亡時発動效果",
+    "buffTrans": "死亡时发动效果",
     "id": 84
   },
   {
@@ -446,22 +446,22 @@
   },
   {
     "buffStr": "強化付与アップ",
-    "buffTrans": "強化成功率提升",
+    "buffTrans": "强化成功率提升",
     "id": 89
   },
   {
     "buffStr": "被ダメージプラス",
-    "buffTrans": "受擊傷害提升",
+    "buffTrans": "受击伤害提升",
     "id": 90
   },
   {
     "buffStr": "3ターン後即死",
-    "buffTrans": "3回合後即死",
+    "buffTrans": "3回合后即死",
     "id": 91
   },
   {
     "buffStr": "1ターン後即死",
-    "buffTrans": "1回合後即死",
+    "buffTrans": "1回合后即死",
     "id": 92
   },
   {
@@ -481,7 +481,7 @@
   },
   {
     "buffStr": "Quick攻撃耐性ダウン",
-    "buffTrans": "Quick攻擊耐性下降",
+    "buffTrans": "Quick攻击耐性下降",
     "id": 96
   },
   {
@@ -496,7 +496,7 @@
   },
   {
     "buffStr": "Arts攻撃耐性ダウン",
-    "buffTrans": "Arts攻擊耐性下降",
+    "buffTrans": "Arts攻击耐性下降",
     "id": 99
   },
   {
@@ -511,7 +511,7 @@
   },
   {
     "buffStr": "Buster攻撃耐性ダウン",
-    "buffTrans": "Buster攻擊耐性下降",
+    "buffTrans": "Buster攻击耐性下降",
     "id": 102
   },
   {
@@ -536,22 +536,22 @@
   },
   {
     "buffStr": "強化解除成功率ダウン",
-    "buffTrans": "強化解除成功率下降",
+    "buffTrans": "强化解除成功率下降",
     "id": 107
   },
   {
     "buffStr": "毎ターンフルチャージ",
-    "buffTrans": "每回合滿充能",
+    "buffTrans": "每回合满充能",
     "id": 108
   },
   {
     "buffStr": "弱攻撃アップ",
-    "buffTrans": "弱攻擊提升",
+    "buffTrans": "弱攻击提升",
     "id": 109
   },
   {
     "buffStr": "強攻撃アップ",
-    "buffTrans": "強攻擊提升",
+    "buffTrans": "強攻击提升",
     "id": 110
   },
   {
@@ -561,27 +561,27 @@
   },
   {
     "buffStr": "宝具攻撃耐性アップ",
-    "buffTrans": "宝具攻擊耐性提升",
+    "buffTrans": "宝具攻击耐性提升",
     "id": 112
   },
   {
     "buffStr": "クリティカル攻撃耐性アップ",
-    "buffTrans": "暴擊攻擊耐性提升",
+    "buffTrans": "暴击攻击耐性提升",
     "id": 113
   },
   {
     "buffStr": "スター減少",
-    "buffTrans": "暴擊星減少",
+    "buffTrans": "暴击星减少",
     "id": 114
   },
   {
     "buffStr": "1ターン後HP回復",
-    "buffTrans": "1回合後回復HP",
+    "buffTrans": "1回合后回复HP",
     "id": 115
   },
   {
     "buffStr": "HP回復力ダウン",
-    "buffTrans": "HP回復下降",
+    "buffTrans": "HP回复下降",
     "id": 116
   },
   {
@@ -591,77 +591,77 @@
   },
   {
     "buffStr": "1ターン後HP減少",
-    "buffTrans": "1回合後減少HP",
+    "buffTrans": "1回合后减少HP",
     "id": 118
   },
   {
     "buffStr": "10ターン後解除",
-    "buffTrans": "10回合後解除",
+    "buffTrans": "10回合后解除",
     "id": 119
   },
   {
     "buffStr": "クラス相性変更",
-    "buffTrans": "職階相性変更",
+    "buffTrans": "职介相性变更",
     "id": 120
   },
   {
     "buffStr": "被ダメージ時発動",
-    "buffTrans": "受到傷害時発動",
+    "buffTrans": "受到伤害时发动",
     "id": 121
   },
   {
     "buffStr": "タゲ集中",
-    "buffTrans": "目標集中",
+    "buffTrans": "目标集中",
     "id": 122
   },
   {
     "buffStr": "Busterダメージ耐性",
-    "buffTrans": "Buster傷害耐性",
+    "buffTrans": "Buster伤害耐性",
     "id": 123
   },
   {
     "buffStr": "Quickダメージ耐性",
-    "buffTrans": "Quick傷害耐性",
+    "buffTrans": "Quick伤害耐性",
     "id": 124
   },
   {
     "buffStr": "Artsダメージ耐性",
-    "buffTrans": "Arts傷害耐性",
+    "buffTrans": "Arts伤害耐性",
     "id": 125
   },
   {
     "buffStr": "クリティカルダメージ耐性",
-    "buffTrans": "暴擊傷害耐性",
+    "buffTrans": "暴击伤害耐性",
     "id": 126
   },
   {
     "buffStr": "宝具ダメージ耐性",
-    "buffTrans": "宝具傷害耐性",
+    "buffTrans": "宝具伤害耐性",
     "id": 127
   },
   {
     "buffStr": "1ターン後NP減少",
-    "buffTrans": "1回合後減少NP",
+    "buffTrans": "1回合后减少NP",
     "id": 128
   },
   {
     "buffStr": "呪いダメージ効果アップ",
-    "buffTrans": "毒傷效果提升",
+    "buffTrans": "诅咒伤害效果提升",
     "id": 129
   },
   {
     "buffStr": "アルテラタイマー",
-    "buffTrans": "阿蒂拉計時器",
+    "buffTrans": "阿蒂拉Timer",
     "id": 130
   },
   {
     "buffStr": "被ダメージ時NP獲得ダウン",
-    "buffTrans": "受擊NP獲得率下降",
+    "buffTrans": "受击NP获得率下降",
     "id": 131
   },
   {
     "buffStr": "強化解除耐性アップ",
-    "buffTrans": "強化解除耐性提升",
+    "buffTrans": "强化解除耐性提升",
     "id": 132
   },
   {
@@ -676,17 +676,17 @@
   },
   {
     "buffStr": "被ダメージ時回復",
-    "buffTrans": "受到傷害時回復",
+    "buffTrans": "受到伤害时回复",
     "id": 135
   },
   {
     "buffStr": "NiceShot!の数だけ防御ダウン",
-    "buffTrans": "根據NiceShot的次數獲得防御力下降",
+    "buffTrans": "根据NiceShot的次數获得防御力下降",
     "id": 136
   },
   {
     "buffStr": "3ターン後",
-    "buffTrans": "3回合後",
+    "buffTrans": "3回合后",
     "id": 137
   },
   {
@@ -701,7 +701,7 @@
   },
   {
     "buffStr": "チャージ攻撃威力アップ",
-    "buffTrans": "充能攻擊威力提升",
+    "buffTrans": "充能攻击威力提升",
     "id": 140
   },
   {
@@ -711,32 +711,32 @@
   },
   {
     "buffStr": "フィールドセット",
-    "buffTrans": "場地效果附加",
+    "buffTrans": "场地效果附加",
     "id": 142
   },
   {
     "buffStr": "クリティカル攻撃時発動",
-    "buffTrans": "暴擊攻擊時発動",
+    "buffTrans": "暴击攻击时发动",
     "id": 143
   },
   {
     "buffStr": "コマンドカード選出不能",
-    "buffTrans": "指令卡不能選出",
+    "buffTrans": "指令卡不能选出",
     "id": 144
   },
   {
     "buffStr": "オーダーチェンジ不能",
-    "buffTrans": "不能換人",
+    "buffTrans": "不能换人",
     "id": 145
   },
   {
     "buffStr": "チャージ2倍",
-    "buffTrans": "技能冷卻時間減半",
+    "buffTrans": "技能冷却时间减半",
     "id": 146
   },
   {
     "buffStr": "宝具タイプチェンジ",
-    "buffTrans": "宝具類型(卡色)改変",
+    "buffTrans": "宝具类型(卡色)改変",
     "id": 147
   },
   {
@@ -746,22 +746,22 @@
   },
   {
     "buffStr": "Buster攻撃ダメージ前追加効果",
-    "buffTrans": "Buster攻擊前追加効果",
+    "buffTrans": "Buster攻击前追加効果",
     "id": 149
   },
   {
     "buffStr": "ブレイクゲージ増加",
-    "buffTrans": "血條增加",
+    "buffTrans": "血条增加",
     "id": 150
   },
   {
     "buffStr": "通常攻撃ダメージ前追加効果",
-    "buffTrans": "通常攻擊之前追加効果",
+    "buffTrans": "通常攻击之前追加效果",
     "id": 151
   },
   {
     "buffStr": "ローマ特性付与",
-    "buffTrans": "賦予\"羅馬\"特性",
+    "buffTrans": "赋予\"罗马\"特性",
     "id": 152
   },
   {
@@ -781,7 +781,7 @@
   },
   {
     "buffStr": "スキルランクアップ",
-    "buffTrans": "技能等級(Rank)提升",
+    "buffTrans": "技能等级(Rank)提升",
     "id": 156
   },
   {
@@ -801,7 +801,7 @@
   },
   {
     "buffStr": "コマンドカードタイプチェンジ",
-    "buffTrans": "指令卡類型(卡色)改変",
+    "buffTrans": "指令卡类型(卡色)改変",
     "id": 160
   },
   {
@@ -821,17 +821,17 @@
   },
   {
     "buffStr": "強化付与ダウン",
-    "buffTrans": "強化付与成功率下降",
+    "buffTrans": "强化付与成功率下降",
     "id": 164
   },
   {
     "buffStr": "フィールド変化",
-    "buffTrans": "場景変化",
+    "buffTrans": "场景変化",
     "id": 165
   },
   {
     "buffStr": "ターンチャージマイナス",
-    "buffTrans": "每回合充能減少",
+    "buffTrans": "每回合充能减少",
     "id": 166
   },
   {
@@ -856,12 +856,22 @@
   },
   {
     "buffStr": "フィールド特性打ち消し",
-    "buffTrans": "場景特性打消",
+    "buffTrans": "场景特性打消",
     "id": 171
   },
   {
     "buffStr": "毒付与アップ",
     "buffTrans": "中毒效果成功率提升",
     "id": 172
+  },
+  {
+    "buffStr": "Extra Attackアップ",
+    "buffTrans": "Extra攻击性能提升",
+    "id": 173
+  },
+  {
+    "buffStr": "ターン延長",
+    "buffTrans": "回合延长",
+    "id": 174
   }
 ]

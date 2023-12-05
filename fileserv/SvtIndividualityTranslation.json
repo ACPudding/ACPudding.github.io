@@ -102,6 +102,14 @@
   {
     "id": 123,
     "individualityName": "U-奥尔加玛丽"
+  }, 
+  {
+    "id": 124,
+    "individualityName": "Beast"
+  },
+  {
+    "id": 126,
+    "individualityName": "Beast VI"
   },
   {
     "id": 200,
@@ -532,6 +540,14 @@
     "individualityName": "持有天之力的从者"
   },
   {
+    "id": 2857,
+    "individualityName": "拥有圣杯"
+  },
+  {
+    "id": 2858,
+    "individualityName": "七骑士从者"
+  },
+  {
     "id": 3004,
     "individualityName": "Buff"
   },
@@ -578,6 +594,22 @@
   {
     "id": 3026,
     "individualityName": "诅咒Buff"
+  },
+  {
+    "id": 3060,
+    "individualityName": "每回合回复HP(Buff)"
+  },
+  {
+    "id": 3080,
+    "individualityName": "每回合回复NP(Buff)"
+  },
+  {
+    "id": 3081,
+    "individualityName": "每回合获得暴击星(Buff)"
+  },
+  {
+    "id": 3088,
+    "individualityName": "标记(Buff)"
   },
   {
     "id": 5000,

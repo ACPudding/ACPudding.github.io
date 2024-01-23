@@ -648,6 +648,18 @@
     "individualityName": "标记(Buff)"
   },
   {
+    "id": 3092,
+    "individualityName": "Arts性能提升(Buff)"
+  },
+  {
+    "id": 3093,
+    "individualityName": "Buster性能提升(Buff)"
+  },
+  {
+    "id": 3094,
+    "individualityName": "Quick性能提升(Buff)"
+  },
+  {
     "id": 5000,
     "individualityName": "Can Be In Battle"
   },

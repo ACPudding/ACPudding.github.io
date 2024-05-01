@@ -883,5 +883,15 @@
     "buffStr": "スキル3使用不能",
     "buffTrans": "技能3不能使用",
     "id": 176
+  },
+  {
+    "buffStr": "身代わり",
+    "buffTrans": "替身",
+    "id": 177
+  },
+  {
+    "buffStr": "魔弾生成",
+    "buffTrans": "魔弹生成",
+    "id": 178
   }
 ]

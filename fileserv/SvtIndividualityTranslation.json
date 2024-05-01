@@ -632,6 +632,10 @@
     "individualityName": "诅咒Buff"
   },
   {
+    "id": 3058,
+    "individualityName": "防御力提升(Buff)"
+  },
+  {
     "id": 3060,
     "individualityName": "每回合回复HP(Buff)"
   },

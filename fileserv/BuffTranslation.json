@@ -893,5 +893,10 @@
     "buffStr": "魔弾生成",
     "buffTrans": "魔弹生成",
     "id": 178
+  },
+  {
+    "buffStr": "NP倍化",
+    "buffTrans": "NP倍化",
+    "id": 179
   }
 ]

@@ -898,5 +898,10 @@
     "buffStr": "NP倍化",
     "buffTrans": "NP倍化",
     "id": 179
+  },
+  {
+    "buffStr": "コマドリカウンター",
+    "buffTrans": "知更鸟计数器",
+    "id": 180
   }
 ]

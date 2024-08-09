@@ -1,0 +1,172 @@
+[
+  {
+    "id": 3001000,
+    "name": "追击技巧提升",
+    "translation": "自身的Extra Attack指令卡性能提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3002000,
+    "name": "魔力装填",
+    "translation": "自身以NP为{{1:Value:y}}%的状态开始战斗"
+  },
+  {
+    "id": 3003000,
+    "name": "对Saber攻击适性",
+    "translation": "自身对〔Saber〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3004000,
+    "name": "对Archer攻击适性",
+    "translation": "自身对〔Archer〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3005000,
+    "name": "对Lancer攻击适性",
+    "translation": "自身对〔Lancer〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3006000,
+    "name": "对Rider攻击适性",
+    "translation": "自身对〔Rider〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3007000,
+    "name": "对Caster攻击适性",
+    "translation": "自身对〔Caster〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3008000,
+    "name": "对Assassin攻击适性",
+    "translation": "自身对〔Assassin〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3009000,
+    "name": "对Berserker攻击适性",
+    "translation": "自身对〔Berserker〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3010000,
+    "name": "对Ruler攻击适性",
+    "translation": "自身对〔Ruler〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3011000,
+    "name": "对Avenger攻击适性",
+    "translation": "自身对〔Avenger〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3012000,
+    "name": "对MoonCancer攻击适性",
+    "translation": "自身对〔MoonCancer〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3013000,
+    "name": "对AlterEgo攻击适性",
+    "translation": "自身对〔AlterEgo〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3014000,
+    "name": "对Foreigner攻击适性",
+    "translation": "自身对〔Foreigner〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3015000,
+    "name": "对Extra职介攻击适性",
+    "translation": "自身对〔额外(Extra)〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3016000,
+    "name": "对Saber/对Rider攻击适性",
+    "translation": "Assassin时，自身对〔Saber〕职阶的攻击力提升{{1:Value:m}}% ＋ Berserker时，自身对〔Rider〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3017000,
+    "name": "对Saber暴击发生耐性",
+    "translation": "自身对〔Saber〕职阶的被暴击发生耐性提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3018000,
+    "name": "对Archer暴击发生耐性",
+    "translation": "自身对〔Archer〕职阶的被暴击发生耐性提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3019000,
+    "name": "对Lancer暴击发生耐性",
+    "translation": "自身对〔Lancer〕职阶的被暴击发生耐性提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3020000,
+    "name": "对Rider暴击发生耐性",
+    "translation": "自身对〔Rider〕职阶的被暴击发生耐性提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3021000,
+    "name": "对Caster暴击发生耐性",
+    "translation": "自身对〔Caster〕职阶的被暴击发生耐性提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3022000,
+    "name": "对Assassin暴击发生耐性",
+    "translation": "自身对〔Assassin〕职阶的被暴击发生耐性提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3023000,
+    "name": "对Berserker暴击发生耐性",
+    "translation": "自身对〔Berserker〕职阶的被暴击发生耐性提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3024000,
+    "name": "对Ruler暴击发生耐性",
+    "translation": "自身对〔Ruler〕职阶的被暴击发生耐性提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3025000,
+    "name": "对Avenger暴击发生耐性",
+    "translation": "自身对〔Avenger〕职阶的被暴击发生耐性提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3026000,
+    "name": "对MoonCancer暴击发生耐性",
+    "translation": "自身对〔MoonCancer〕职阶的被暴击发生耐性提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3027000,
+    "name": "对AlterEgo暴击发生耐性",
+    "translation": "自身对〔AlterEgo〕职阶的被暴击发生耐性提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3028000,
+    "name": "对Foreigner暴击发生耐性",
+    "translation": "自身对〔Foreigner〕职阶的被暴击发生耐性提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3029000,
+    "name": "对Pretender攻击适性",
+    "translation": "自身对〔Pretender〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3030000,
+    "name": "对Pretender暴击发生耐性",
+    "translation": "自身对〔Pretender〕职阶的被暴击发生耐性提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3031000,
+    "name": "对Beast攻击适性",
+    "translation": "自身对〔Beast〕职阶的攻击力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3032000,
+    "name": "对Beast暴击发生耐性",
+    "translation": "自身对〔Beast〕职阶的被暴击发生耐性提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3033000,
+    "name": "特击技巧提升",
+    "translation": "自身的暴击威力提升{{1:Value:m}}%"
+  },
+  {
+    "id": 3034000,
+    "name": "技能再装填",
+    "translation": "付与自身「使用技能后，所使用技能的充能减少1」的状态(1次<Lv.6～9为2次，Lv.10为3次，每个技能限1次>)"
+  }
+]

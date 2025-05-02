@@ -948,5 +948,15 @@
     "buffStr": "Busterアップ",
     "buffTrans": "Buster性能提升",
     "id": 189
+  },
+  {
+    "buffStr": "罪の刻印消費",
+    "buffTrans": "罪之刻印消耗",
+    "id": 190
+  },
+  {
+    "buffStr": "罪の刻印",
+    "buffTrans": "罪之刻印",
+    "id": 191
   }
 ]

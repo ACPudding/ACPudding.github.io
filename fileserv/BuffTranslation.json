@@ -933,5 +933,20 @@
     "buffStr": "クラス変化",
     "buffTrans": "职介变化",
     "id": 186
+  },
+  {
+    "buffStr": "Quickアップ",
+    "buffTrans": "Quick性能提升",
+    "id": 187
+  },
+  {
+    "buffStr": "Artsアップ",
+    "buffTrans": "Arts性能提升",
+    "id": 188
+  },
+  {
+    "buffStr": "Busterアップ",
+    "buffTrans": "Buster性能提升",
+    "id": 189
   }
 ]

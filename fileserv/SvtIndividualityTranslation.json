@@ -692,6 +692,14 @@
     "individualityName": "保护对象外"
   },
   {
+    "id": 3121,
+    "individualityName": "月下"
+  },
+  {
+    "id": 3122,
+    "individualityName": "日轮"
+  },
+  {
     "id": 5000,
     "individualityName": "Can Be In Battle"
   },
@@ -700,4 +708,5 @@
     "individualityName": "Not Based On Servant"
   }
 ]
+
 

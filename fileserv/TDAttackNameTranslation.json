@@ -28,6 +28,22 @@
     "tdFuncname": "(全体)特攻攻击"
   },
   {
+    "id": 18,
+    "tdFuncname": "(单体)特攻攻击"
+  },
+  {
+    "id": 19,
+    "tdFuncname": "(全体)特攻攻击"
+  },
+  {
+    "id": 20,
+    "tdFuncname": "(单体)HP越多威力越高攻击"
+  },
+  {
+    "id": 21,
+    "tdFuncname": "(全体)HP越多威力越高攻击"
+  },
+  {
     "id": 22,
     "tdFuncname": "(单体)HP越少威力越高攻击"
   },
@@ -54,6 +70,14 @@
   {
     "id": 802,
     "tdFuncname": "被伤害反射"
+  },
+  {
+    "id": 1473,
+    "tdFuncname": "(单体)强力攻击SAFE"
+  },
+  {
+    "id": 1474,
+    "tdFuncname": "(全体)强力攻击SAFE"
   },
   {
     "id": 3851,

@@ -118,6 +118,10 @@
   {
     "id": 132,
     "individualityName": "UnBeast"
+  }, 
+  {
+    "id": 136,
+    "individualityName": "Beast VII"
   },
   {
     "id": 200,
@@ -710,6 +714,18 @@
   {
     "id": 5010,
     "individualityName": "Not Based On Servant"
+  },
+  {
+    "id": 10006,
+    "individualityName": "纳刀态势"
+  },
+  {
+    "id": 10009,
+    "individualityName": "新选组"
+  },
+  {
+    "id": 10010,
+    "individualityName": "[伊丽莎白]"
   }
 ]
 
